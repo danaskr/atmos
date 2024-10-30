@@ -13,3 +13,4 @@ The program should continue the simulation until one gas component totally peris
 from the atmosphere. The program should print all attributes of the layers by simulation 
 rounds! 
 
+![image](https://github.com/user-attachments/assets/3ab1aa4e-2ebc-45c7-b735-bd11ea397e4a)
